@@ -1,5 +1,5 @@
 # NICable
-A Windows program that can disable/enable network adapters.
+A Windows command line tool which allows disable/enable network adapters.
 
 Must be run as Administrator.
 ## Usage
